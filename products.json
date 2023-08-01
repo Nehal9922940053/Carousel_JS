@@ -1,0 +1,66 @@
+[
+    {
+        "id" : 1, 
+        "image" : "images/headphone.jpg",
+        "name" : "Gaming Headset",
+        "price" :"2500",
+        "shippingCharges":"Free shipping"
+    },
+    
+    {
+        "id" : 2, 
+        "image" : "images/boat.jpg",
+        "name" : "Boat Furious Airdopes",
+        "price" :"1800",
+        "shippingCharges":"Free shipping"
+    },
+
+    {
+        "id" : 3, 
+        "image" : "images/boat_blue.jpg",
+        "name" : "Boat Bluetooth Headphone",
+        "price" :"1499",
+        "shippingCharges":"Free shipping"
+    },
+
+    {
+        "id" : 4, 
+        "image" : "images/boat_nirvana.jpg",
+        "name" : "Boat Nirvana Headset",
+        "price" :"2500",
+        "shippingCharges":"Free shipping"
+    },
+
+    {
+        "id" : 5, 
+        "image" : "images/ipod.jpg",
+        "name" : "Apple ipod",
+        "price" :" 10000",
+        "shippingCharges":"Free shipping"
+    },
+    
+    {
+        "id" : 6, 
+        "image" : "images/powerbank.jpg",
+        "name" : "Xiaomi Power Bank",  
+        "price" :"999",
+        "shippingCharges":"Shipping Charges Applied"
+    },
+
+    {
+        "id" : 7, 
+        "image" : "images/smart-watch.jpg",
+        "name" : "Boat Smart Watch",
+        "price" :" 1999",
+        "shippingCharges":"Free shipping"
+    },
+
+    {
+        "id" : 8, 
+        "image" : "images/firebolt.jpg",
+        "name" : "Firebolt Smart Watch",
+        "price" :"3999",
+        "shippingCharges":"Shipping Charges Applied"
+    }
+
+]
